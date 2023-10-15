@@ -1,16 +1,13 @@
-### Hi there 👋
+### Henlo! ヾ(⌐■_■)ノ♪
 
-<!--
-**TusharIbtekar/TusharIbtekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Tushar, a Software Engineer from Dhaka, Bangladesh. Currently I'm focusing on the following areas:
+- Full Stack Web Development, with an emphasis on TypeScript.
+- DevOps `¯\_(ツ)_/¯`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Additionally, I have also explored a bit in the following technologies:
+- Ethereum and Solidity
+- Django and Python
+- Deep Learning
+
+ 🔖[Website](https://ibtekar.dev) 
