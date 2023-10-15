@@ -10,4 +10,4 @@ Additionally, I have also explored a bit in the following technologies:
 - Django and Python
 - Deep Learning
 
- 🔖[Website](https://ibtekar.dev) 
+ 🔖 [Website](https://ibtekar.dev) 
