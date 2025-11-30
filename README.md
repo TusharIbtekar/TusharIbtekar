@@ -2,7 +2,7 @@
 
 
 I'm Tushar, a Software Engineer from Dhaka, Bangladesh. Currently I'm focusing on the following areas:
-- Full Stack Web Development, with an emphasis on TypeScript.
+- Full Stack Development (Go, TypeScript)
 - DevOps `¯\_(ツ)_/¯`
 
 Additionally, I have also explored a bit in the following technologies:
